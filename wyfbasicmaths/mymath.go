@@ -13,7 +13,7 @@ func Mul(a, b int) int {
 }
 
 func Div(a, b int) int {
-	return a % b
+	return a / b
 }
 
 // github.com/WeiYunfeng/WyfGoGoGo
